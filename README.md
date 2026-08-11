@@ -11,7 +11,7 @@ Separei os códigos por assunto para ficar mais fácil de encontrar. Tem exemplo
 - tratamento de erros;
 - pequenos sistemas de escola e academia.
 
-Os projetos foram feitos no NetBeans durante as aulas. Alguns são exercícios simples e outros mais complexos.
+Os projetos foram feitos no NetBeans durante as aulas. Alguns exercícios são simples e outros mais complexos.
 
 ## Pastas
 
