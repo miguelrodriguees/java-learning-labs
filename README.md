@@ -1,6 +1,6 @@
 # Meus exercícios de Java
 
-Aqui estão alguns exercícios que fiz enquanto estava aprendendo Java.
+Aqui estão alguns exercícios que fiz em Java.
 
 Separei os códigos por assunto para ficar mais fácil de encontrar. Tem exemplos de:
 
@@ -11,7 +11,7 @@ Separei os códigos por assunto para ficar mais fácil de encontrar. Tem exemplo
 - tratamento de erros;
 - pequenos sistemas de escola e academia.
 
-Os projetos foram feitos no NetBeans durante as aulas. Alguns são exercícios simples e outros juntam mais de um conteúdo que aprendi.
+Os projetos foram feitos no NetBeans durante as aulas. Alguns são exercícios simples e outros mais complexos.
 
 ## Pastas
 
@@ -23,5 +23,5 @@ tratamento-de-erros/
 mini-sistemas/
 ```
 
-Este repositório serve para guardar meus estudos e acompanhar minha evolução em Java.
+Este repositório serve para guardar meus estudos e visualizar minha evolução em Java.
 
