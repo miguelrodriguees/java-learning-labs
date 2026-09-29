@@ -12,7 +12,7 @@ Este repositório reúne exercícios que fiz durante as aulas e nos meus estudos
 | [04-tratamento-de-excecoes](04-tratamento-de-excecoes/) | Exemplos de `try`, `catch`, múltiplos `catch` e `finally`. |
 | [05-projetos-praticos](05-projetos-praticos/) | Pequenos sistemas de escola e academia. |
 
-## Sobre os exercícios
+## Sobre os exercício
 
 Os códigos foram desenvolvidos no NetBeans. Cada pasta possui exercícios separados e seus respectivos arquivos `src`, então não existe uma única classe responsável por executar todo o repositório.
 
